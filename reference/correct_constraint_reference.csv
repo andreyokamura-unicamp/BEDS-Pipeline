@@ -1,0 +1,296 @@
+A collision between the ACROBOTER robotic platform and an unknown object must be avoided at all times.
+A/C must maintain minimum safe altitude limits.
+A/C must maintain minimum safe separation distance.
+ACC must not brake too abruptly.
+ACC must not violate separation requirements with object ahead.
+ACC should not brake too abruptly.
+ACC should not let the vehicle gets in contact with the object ahead.
+ACS must not continue providing attitude maneuver commands too long after attitude has stabilized.
+ACS must not provide attitude maneuver commands in the same direction as rotation.
+ACS must not provide attitude maneuver commands too early to achieve desired attitude.
+ACS must not provide attitude maneuver commands too late after ASTRO-H has rotated too far.
+ACS must not provide attitude maneuver commands when ASTRO-H is not rotating.
+ACS must not stop providing attitude commands too soon before attitude has stabilized.
+ACS must provide attitude maneuver commands that are sufficient to slow ASTRO-H quickly.
+ACS must provide attitude maneuver commands when ASTRO-H is rotating.
+"Actuator (Throttle, Spark, Fuel, etc.) Control shall be synchronized with axle torque request."
+"After rotation, the skid angle must be reduced to keep wings leveled."
+Aircraft component must not be powered up when hazardous FLS is installed.
+Aircraft must maintain criteria for stable approaches.
+Aircraft must maintain its control and maintain airframe integrity.
+Aircraft must maintain separation with ground or obstacles on ground.
+Aircraft must maintain separation with other aircraft.
+Aircraft must not be operated when hazardous FLS is installed.
+Aircraft must not enter a runway without clearance.
+Aircraft on ground must maintain separation with other objects and must not leave the paved area.
+Aircraft shall be capable of remaining airborn in a controlled manner throughout the operation.
+"Aircraft shall not enter a controlled airspace without broadcasting their location through Mode C, ADS-B, or IFF."
+Aircraft shall not enter a controlled airspace without verbal confirmation from the controller.
+Aircraft should maintain a safe distance from obstacles and notify the operator when reaching the minimum distance.
+Airframe integrity must not be lost during flight.
+All inspection procedures must be coordinated between implementers.
+All the safety/mission critical military aerospace designs and products shall be Certified to allow use or operation.
+An abnormal termination instruction must be given immediately if an abort is required.
+An abnormal termination instruction must be given when continuing the ITP would be unsafe.
+An abnormal termination instruction must not be given when it is not required to maintain safety and would result in a loss of separation.
+"An emergency shall stop the train, Doors shall open in an emergency after the train has stopped."
+Approval must be given to the requesting aircraft only.
+Approval must not be given too early or too late (needs to be clarified as to the actual time limits).
+Approval of an ITP request must be given only when the ITP criteria are met.
+"At the launch rail, vehicle stages must be prevented from igniting before planned, even when subjected to commands or electric discharges."
+Autopilot must send objects to Autopilot HMI when required.
+Autopilot must send road signs to Autopilot HMI when required.
+AV must adhere to the allowed operating limits advised by the traffic rules and ODD limitations.
+AV must adhere to the designated path.
+AV must maintain a safe distance from VRUs and other stationary and moving objects in the surroundings.
+AV must never lose control.
+AV must provide a comfortable experience to the passengers when driving or stationary.
+Brake light command must illuminate early within X-seconds before stopping vehicle.
+Chemical plant must not release toxic chemicals into the atmosphere.
+Computer must not close water valve before catalyst valve closes.
+Computer must not close water valve while catalyst valve open.
+Computer must not open catalyst valve when water valve not open.
+Computer must open water valve whenever catalyst valve is open.
+Computer must open water valve within X seconds of catalyst valve open.
+"Control system shall control the actuator (Throttle, Spark, Fuel, etc.) correctly in response to axle torque request."
+Controller shall allow time for passengers to exit & enter before attempting to close the door.
+Controller shall not close Door while a passenger is in the doorway.
+"Controller shall not open Door while train is moving, only when stopped."
+Controller shall open Door in an emergency.
+Controller shall open Door when Train is stopped in Station.
+Controller shall report the state of the Door to the next-higher level of control.
+Controllers shall confirm that an aircraft has exited the zone via both voice communications and radar confirmation.
+Controllers shall confirm that the small arms range is inactive.
+Controllers shall confirm that there are no rocket tests ongoing.
+Controllers shall monitor radar returns of aircraft that are ascending/descending to ensure minimum separation requirements.
+Controllers shall not approve requests for access to zones other than those that they are controlling.
+correct patient results must be reported to the Audiologist.
+Customer's data must be not be misused by JIT.
+Customer's data must not be misused even by authorized 3rd parties.
+Customer's data must not be released to public.
+Customer's data must not be released to unauthorized 3rd parties.
+Data Fusion and Assessment must provide assessed environment model to Autopilot when required.
+Data obtained by instrumentation must be stored and/or transmitted to supporting infrastructure.
+"Deck crew must be well trained, and equipment properly maintained and inspected."
+Depth should be continuously monitored.
+Directional deviations must be corrected smoothly and continuously.
+Doors must not be closed if someone is in the doorway.
+Doors must not be opened until train is stopped and aligned with platform.
+Doors shall open at station when train is completely stopped and aligned with platform.
+Doors shall remain closed when train is moving.
+"Doors shall remain open when someone is in the doorway, the train shall not move until the doors close."
+Driver must brake Model S when required.
+Driver must know the correct limited speed through different kinds of ways (e.g. IC cards and the scheduler).
+Driver must not perform other tasks when not allowed.
+"During laboratory handling and experiments with Energetic Materials, the Laboratory Operators must measure and receive data of the synthesis process variables conditions."
+Ego vehicle must decelerate at rates greater than 0.9 m/s^2.
+Ego vehicle must not accelerate at rates greater than 1 m/s^2.
+Ego vehicle must not decelerate at rates greater than 4 m/s^2.
+Ego vehicle must not leave the lane unless desired by the driver.
+Energetic materials must be identified as to the particular danger of handling.
+"Energetic materials must be identified as to the synthesis date, expiration date when industrialized, or revalidation date."
+Energetic materials must be used as prescribed.
+Expired materials must be revalidated before use.
+Follow-up must be provided to ensure that recommendations have been implemented and are effective.
+Food products with pathogens must not be sold.
+Heat and smoke detectors should trigger an alarm and extinguishing systems.
+"If a person is detected in doorway during door closing, door closing must be stopped and reversed."
+"If control over the ship is lost, then it must be detected and measures should be taken to regain control over the ship."
+"If the control propulsion output stops, System propulsion output shall be gradually ramped to zero with operator notification. Graceful transition to a safe state."
+"If toxic chemicals are not contained, damage must be mitigated."
+"If ventilation does not maintain methane level below 2%, this must be detected, electricity must be cut off, and workers must follow specific procedures to reduce the methane content."
+"If ventilation does not maintain methane level below 3%, this must be detected, electricity must be cut off, and workers must abandon the workplace immediately."
+"If ventilation does not maintain oxygen level over 19%, this must be detected, and workers must use self-rescuers and abandon the workplace."
+"If ventilation turned off, the workplace must be abandoned immediately."
+"In areas where terrain masking may occur, the controller shall maintain awareness of aircraft that have requested access to the airspace."
+"In case of budget restriction is unavoidable, the company management shall prioritize the activities without compromising safety or performance aspects."
+"In the event of an unintended ignition, the vehicle must remain fixed to the launching rail, avoiding an unplanned route."
+IPMS must not sent STOP command unless an emergency condition is indicated.
+IPMS must send STOP command to PCA when patient has been given too much opiod.
+IPMS must sent STOP command within TBD seconds of emergency.
+Laboratories that handle energetic materials must have laboratory environmental control equipment.
+Laboratory Operators must be able to stop the synthesis once it is detected that the process variables conditions are out of the safety acceptable states for handling.
+Laboratory Operators must be trained to manipulate energetic materials correctly.
+Laboratory Operators must set the laboratory process variables conditions in accordance with the limitations for handling the energetic materials under manipulation (analysis/syntheses).
+Laboratory Operators must verify the safety acceptable environmental conditions and the restrictions for handling energetic materials.
+Laboratory Supervisors must verify if the Operators have concluded the training for safely handling Energetic Materials before authorizing the activities.
+Lessons learned must be documented and disseminated.
+Level must never violate maximum value.
+Msn critical systems must be available when required to perform primary msn.
+No access to aircraft equipment (electronic or physical) shall be allowed without authorization.
+NSI should ensure NS accept from NSS is conform to the its requirements.
+NSS should develop NS following the top-level requirements from NSI.
+Nuclear power plant must not release radioactive materials into environment.
+Operational laboratory trainings must approach the safety constraints and guidelines on handling Energetic Materials.
+Operators must conclude operational laboratory training for handling Energetic Materials.
+Output Control shall be synchronized with Input request.
+Path panning must include the ability to pass through an intersection in movement calculation before moving forward into an intersection.
+Patient results must be reported to the Audiologist in a useable time frame.
+Pilot must execute maneuver once it is approved.
+Pilot must not perform ITP when criteria are not met or request has been refused.
+Pilot must start maneuver within X minutes of re-verifying ITP criteria.
+Pilots must execute maneuver within X minutes of reassessment.
+Pilots must not begin to execute maneuver before approval.
+Pilots must not climb/descent beyond designated altitude.
+Pilots must not execute maneuver when ITP criteria are not satisfied.
+"Pilots must not execute maneuver with incorrect climb rate, final altitude, etc."
+Pilots must not stop maneuver before reaching designated altitude (except in emergency temination).
+"Plant must be operated within limits (pressure, temperature, etc.)."
+Pressure must never violate maximum value.
+Procedures must be in place to identify and investigate thoroughly all serious or potentially serious incidents.
+Public health measures must reduce risk of public exposure to unsafe water during incidents.
+Radiated energy frequencies should be selected so as to be different from those used by other systems if possible.
+"Radiated energy must not be directed at and/or reach other systems using the same frequency if possible. Otherwise, radiation must be at sufficiently low power so as to prevent disruption or damage of other systems."
+"Radiation and toxic, radioactive, or energetic materials must not be released within range of humans or other systems."
+Radio communication should be in the disposal of the spotter and the operators.
+Radioactive materials must note be released.
+"Radioactive, toxic, or energetic materials must be stored away from humans."
+Recommendations must be implemented to eliminate or mitigate all identified factors contributing to the adverse events.
+Safe distance should always be kept and the crew must be aware when it is violated.
+Satellite must be able to operate for the design life.
+Satellite must be able to operate onboard instrumentation.
+"Satellite must be launched into correct orbit, or means to correct for different orbits must exist."
+Satellite must maintain means of communication with supporting systems.
+Satellite must maintain means of control.
+Satellite must maintain means of transmitting science data to supporting systems.
+Satellite must not operate in an environment that poses the risk of excessive radiation or impact from energetic materials.
+"Satellite must not radiate energy until on orbit, separated from, and clear of launch vehicle and debris."
+"Satellite, satellite components, and satellite debris must not impact other systems or debris during launch, on orbit, or during disposal."
+"Sensitive information regarding the aircrafts, vehicles, payloads and ground support systems designs or procedures; personnel data; production process; material; organic or operational safety information, among others, shall be kept with the allocated restricted access."
+Sensor processing must have confidence and reduce false positive in distinguishing true moving target.
+Sensor processing must have foliage as a class in machine learning list.
+"Separation from other aircraft, terrain, obstacles must be maintained."
+SGC system must always produce gas with maximum capacity.
+SGC system must be protected from abnormal operating conditions that can damage valuable components.
+SGC system must stop compressing gas when gas leaks to the environment.
+Ship must not enter into an unsafe area (low water-depth or stormy area).
+Ship must not violate minimum separation from any stationary object or underwater object.
+Ship must not violate minimum separation from other ship.
+Side stick command must be gradually reduced as the aircraft gains speed.
+Side stick command should be applied to the side of the wind after releasing the brakes.
+Smartgrid must be able to keep customers comfortable as desired.
+Smartgrid must be able to meet local energy demands.
+Smartgrid must be able to meet unexpected demands.
+SMS shall be designed according to standards.
+SMS shall be effective.
+SMS shall be implemented according to standards.
+SMS shall be suitably scaled for the organization.
+Software must complete calculations within 2 minutes.
+"System shall be able to control the actuator (Throttle, Spark, Fuel, etc.), when required."
+System shall be made aware of the Axle Torque Command determination status.
+TCAS must always provide an RA in time to prevent an NMAC.
+TCAS must not disrupt the pilot and ATC operations during critical phases of flight nor disrupt aircraft operation.
+TCAS must not interfere with the ground ATC system or other aircraft transmissions to the ground ATC system.
+TCAS must not provide RAs that degrade vertical separation.
+Temperature must never violate maximum value.
+The ACROBOTER robotic platform must not release the payload.
+The aircraft must be able to generate enough power to keep the systems running properly.
+The aircraft must be controllable by the pilot or piloting function in an OPV (optionally piloted vehicle) at all times.
+The aircraft must be maneuvered within the safety envelope.
+The aircraft must maintain constant communication with the base throughout the operation.
+The aircraft must maintain minimum separation from potential sources of collision.
+The aircraft must never fly off the route specified at the flight plan.
+The AMS must avoid H2O/Ice accumulation.
+The AMS must not distribute air inside the aircraft which is unacceptably contaminated.
+The AMS must not extract air from from the inappropriate sources at the inappropriate.
+The AMS must not let the air pressure reach values out of the prescribed limits for thedestination environment.
+The AMS must not let the air temperature reach values out of the prescribed limits for the destination environment.
+The AMS must not transport air to inappropriate environments at inappropriate times.
+The app must command the pump to stop if the patient's vital signs indicate over-infusion.
+The app must inform the display of the pump command status.
+The app must inform the display of the status of the patient's vital signs.
+The burnout of 2E must be detected.
+The burnout of 3E must be detected.
+The Certification Authority personnel shall be qualified according to project/production area they are analysing.
+The Certification Authority personnel shall be qualified at the certification process.
+The certification process shall allow identification of critical flaws and loss scenarios.
+The certification process shall allow verification of all safety critical or performance requirements and also the system functions.
+"The certification process shall be continuously updated, allowing improvement of the procedures and regulations."
+The Control system shall determine the axle torque request periodically.
+The Control System shall not miscalculate the Axle Torque request.
+The Controller shall warn passengers when the door is about to open or close.
+The CREVAS must operate when the two events—High-level radioactive at air intakes of MCR or the SIAS—occur.
+The crew shall be given positive notification of arrival at the requested FL.
+"The CSAS must operate when the three events—LOCA, S/WP-Ex, or the SIAS—occur."
+The dispatcher in the CTC and the watch keeper should identify the potential danger in the railway line and command the train to slow down or stop in emergency situations.
+The energetic material state must not differ from the safety acceptable conditions to be handled.
+The failures in the Train Control System must be identified and provided as feedback to the dispatcher of CTC in time.
+The FI must assist the trainee in enforcing these safety constraints.
+The FI must take over the control to enforce these safety constraints if necessary.
+The financial budget for the project development and production shall be allocated by the sponsors.
+The flight crew must execute the ITP immediately when approved unless it would be dangerous to do so.
+"The flight crew must execute the ITP with correct climb rate, flight levels, Mach number, and other associated performance criteria."
+The flight crew must have control of the aircraft all the time.
+The flight crew must never violate predetermined minimum/maximum altitude.
+The flight crew must never violate the minimum distance to other aircraft.
+The flight crew must not abort the ITP unnecessarily. (Rationale: An abort may violate separation minimums)
+The flight crew must not continue the ITP maneuver when it would be dangerous to do so.
+The flight crew must not execute an ITP when the ITP criteria are not satisfied.
+The flight crew must not execute the ITP before approval by ATC.
+The flight crew must not execute the ITP when it has not been approved by ATC.
+The ignition of the second rocket stage (2E) must be detected.
+The intervention between ACC system and driver should be limited to the traffic environment and conditions.
+The Laboratory Managers must periodically implement training for safely handling Energetic Materials to the Laboratory Supervisors and Operators.
+The laboratory supervisor must supervise the laboratory activities to verify the safety standards for handling energetic materials.
+"The Laboratory Supervisors must be a part of the scale of the energetic material manipulated, if the authorizations are correct, and if the work is conducted at the appropriate time with people to provide first aid or trigger emergency mode if necessary."
+The LKA system must not allow the vehicle switch to lanes without the correct turn-indicator being actuated.
+The LKA system must not perform corrective action if the correct turn-indicator is actuated (if the direction of deviation is the same as the turn-indicator).
+The LKA system must verify that corrective action has beenperformed either from its inputs or feedback from the electrical steering system.
+The operator should always be able to control the attitude and flight path during the whole flight.
+"The owner of a certificate product shall be aware of the expiration date, if applicable, and provide the necessary documentation to avoid its expiration."
+The owner of a certificate product shall maintain the system safety and the manufacturing according to the design approved to avoid the certificate to be cancelled.
+The pilot must always follow the RA provided by TCAS.
+The pilot of a TCAS-equipped aircraft must have the option to switch to the Traffic-Advisory mode where traffic advisories are displayed but display of resolution advisories is prohibited.
+The possibility of progressive flooding should be monitored and detected on time.
+The procedure for landing with a blown tire must be completely followed.
+"The products shall be in conformity with the design. If it’s not, it shall not be used or operated."
+The public must not be exposed to pathogens in drinking water.
+The Quality Management Systems and Manufacturing Processes of the Company’s related to the Aeronautics and Space activities shall be certified.
+"The reports, procedures and documents not approved by Certification Authority shall be revised and the revisions shall be submitted to the Certification Authority for approval. It might be necessary to repeat test or simulations in order to verify design changes."
+The separation of the first rocket stage (1E) must be detected.
+The ship must be maintained properly so that the occurrence of fire is prevented.
+"The SIAS must operate when the 4 events—LOCA, 2ndHSL, S/WP-Ex, or REA—occur."
+The software must receive the NAV_ON to initialize the flight time.
+The spotter should be in a positions which will provide him the maximum possible observation range and minimum blind spots.
+The spotter should have in his disposal visual signs to attract the attention of the operators.
+The system must not disrupt the pilot and ATC operations during critical phases of flight nor disrupt aircraft operation.
+The takeoff must be aborted at the first sign of loss of directional control.
+The test planning shall consider the financial restrictions and the management risks of the project.
+The train shall remain stopped and a door open command issued if an object is detected in the doorway when doors are closed.
+The transition of primary flight controls in the rotation should be performed smoothly and continuously.
+The vehicle should keep adequate distance and height against the people and properties on the ground.
+There must be no person between train doors and PSDs when the train start.
+There shall never be smoke inside the cabin.
+There shall never be uncontrolled fire on board.
+Toxic chemicals must be contained within plant equipment.
+Toxic chemicals must not be released.
+Toxic plant chemicals must not be released into the atmosphere.
+Train must not move with doors open.
+Train must run within limited speed.
+UAS operations shall not induce or contribute to a controlled flight into terrain maneuver.
+UAS operations shall not induce or contribute to loss of aircraft controlled flight.
+UAS operations shall not lead to a loss of minimum separation requirements.
+"UAS operations shall, when possible, be conducted well away from the boundaries of the airspace."
+UAS operator shall immediately inform the controller if the UAV position becomes unclear.
+UAS operator shall immediately inform the controller in the event of a UAV malfunction.
+UAS operator shall immediately notify the losing controller if the UAV is incapable of exiting the old airspace.
+UAS operator shall read back airspace clearance to controller.
+Unauthorized individuals must not access the port system infrastructure.
+Vehicle must brake when vehicle detected slowed or stopped object (at a few X-meters within the preset value of the safety distance) in its path.
+Vehicle must illuminate the brake light to warn vehicle in the back.
+Vehicle must maintain safe distance from nearby objects.
+Vehicle must maintain safe distance from nearby vehicles.
+Vehicle must maintain safe distance from terrain and other obstacles.
+Vehicle must not expose occupants to harmful effects and/or health hazards.
+Vehicle must not leave the roadway.
+"Vehicle must not violate minimum safety distance to objects, road users, vehicles, etc."
+"Vehicle stages and interfaces must be designed so that, in the event of an unintended ignition, they do not result in the vehicle explosion."
+Vehicles must always maintain safe distances from each other.
+"When performing an abort, the flight crew must follow regional contingency procedures."
+"When spin zones are in use, the controller shall not consider the area clear or safe."
+"When the bursting of a tire at high speed is suspected and the pilot decides to continue, the landing gear must not be retracted."
+When the Train is stopped and not in a station and no emergency exists the Controller shall not open the door.
+"When two aircraft are on a collision course, TCAS must always provide an RA to avoid the collision."
+Wing safety shall ensure that the UAV software is updated with new airspace boundaries when they are changed.
+Workers shall not be exposed to hazardous energy.
+Yawing at brakes release must be counteracted quickly.
