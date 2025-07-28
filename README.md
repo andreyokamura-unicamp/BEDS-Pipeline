@@ -6,8 +6,8 @@ BEDS was trained using the BERT language model, and specializes in detecting wri
 
 The pipeline has four steps:
 1. (Optional) The first step takes an unlabeled sentence and classifies between the Loss, Hazard, and Constraint classes;
-2. The second step checks if a sentence is considered either correct or incorrect based on the examples given in the STPA Handbook;
-3. The third step checks the category of error present in the incorrect sentences discovered in the previous step;
+2. The second step checks if a sentence is considered either valid or invalid based on the examples given in the STPA Handbook;
+3. The third step checks the category of fault present in the invalid sentences discovered in the previous step;
 4. The fourth step uses a sentence similarity model to suggest corrections from a list of verified sentences to the incorrect sentences previously discovered.
 
 ## Python Code
@@ -46,8 +46,8 @@ df = pd.read_csv(r'/[PATH]/stpa-dataset.csv')
 This dataset contains 9 columns that organize the collected data.
 1. "sentence": The extracted sentence from the presentation;
 2. "label": The corresponding label of the sentence (Loss, Hazard, or Constraint);
-3. "validation": Indicates whether the sentence is correct or incorrect;
-4. "error": Indicates the type of error in incorrect sentences;
+3. "validity": Indicates whether the sentence is valid or invalid;
+4. "faults": Indicates the type of fault in invalid sentences;
 5. "domain": Domain of the presentation;
 6. "year": Year of the presentation;
 7. "title": Title of the presentation;
