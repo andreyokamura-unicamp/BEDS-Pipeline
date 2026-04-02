@@ -19,8 +19,9 @@ Two Python notebooks are available in this repository:
 To experiment with BEDS, you should use **BEDS_Pipeline_Execution_example.ipynb**:
 1. Uncomment and install the required libraries;
 2. Prepare your input based on the examples given in this repository ("input_example labeled.csv" or "input_example unlabeled.csv");
-3. Choose the input type: "labeled" or "unlabeled";
-4. Run all lines of code sequentially.
+3. Upload the "reference" folder to the notebook, containing the "correct_loss_reference.csv", "correct_hazard_reference.csv", and "correct_loss_reference.csv" files;
+4. Choose the input type: "labeled" or "unlabeled";
+5. Run all lines of code sequentially.
    
 
 ## Dataset
