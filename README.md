@@ -12,7 +12,7 @@ The pipeline has four steps:
 
 ## Python Code
 Two Python notebooks are available in this repository:
-1. **BEDS_Pipeline_Fine_tuning_and_Evaluation** is the code used to manipulate the dataset and train all the ML models of the pipeline;
+1. **BEDS_Pipeline_Fine_tuning_and_Evaluation** is the code used to analyse the dataset and train all the ML models of the pipeline;
 2. **BEDS_Pipeline_Execution_example** is the functional example of the pipeline.
 
 ### How to Use
@@ -67,4 +67,4 @@ The sentences extracted are from slides that explicitly show the type of sentenc
 
 
 ## About the Author
-This repository was created by the Computing and Communication Systems graduate student *Andrey Toshiro Okamura*, from the State University of Campinas (UNICAMP)'s School of Technology.
+This repository was created by the Computing and Communication Systems graduate student *Andrey Toshiro Okamura*, from the State University of Campinas (UNICAMP)'s Faculty of Technology.
